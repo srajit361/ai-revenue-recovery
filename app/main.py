@@ -1,6 +1,6 @@
 """
 AI Revenue Recovery — Payment Retry Optimizer
-Razorpay AI Builder Internship 2026 — Track 3
+
 
 Given a failed transaction, predicts:
 1. Probability of retry success (as-is)
