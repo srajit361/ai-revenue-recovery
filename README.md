@@ -1,6 +1,6 @@
 # AI Revenue Recovery — Payment Retry Optimizer
 
-**Razorpay AI Builder Internship 2026 — Track 3: AI Revenue Recovery**
+
 
 ## Problem
 
