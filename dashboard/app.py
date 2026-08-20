@@ -29,7 +29,6 @@ model = load_model()
 df = load_data()
 
 st.title("💳 AI Revenue Recovery — Payment Retry Optimizer")
-st.caption("Razorpay AI Builder Internship 2026 — Track 3")
 
 tab1, tab2, tab3 = st.tabs(["🔮 Live Prediction", "📊 Model Insights", "💰 Business Impact"])
 
